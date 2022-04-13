@@ -1,0 +1,10 @@
+User: epiz_30809348
+ZgcVz7gXGLF90Ye
+tobyrooscs.epizy.com
+Host Name: ftp.epizy.com
+Port: 21
+
+
+DB Name: epiz_30809348_GuessingGame
+UserName: epiz_30809348	
+HostName: sql204.epizy.com
